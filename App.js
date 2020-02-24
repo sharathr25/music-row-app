@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, TouchableOpacity, Text } from 'react-native';
+import { View } from 'react-native';
 import ColorMusicRows from './components/ColorMusicRows';
 
 const App = () => (

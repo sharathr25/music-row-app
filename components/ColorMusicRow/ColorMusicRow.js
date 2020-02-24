@@ -13,7 +13,7 @@ const ColorMusicRow = ({color, musicFile}) => {
         <TouchableOpacity style={{backgroundColor: color, flex: 1 }} onPress={playSound}>
         <Text/>
         </TouchableOpacity>
-);
+    );
 }
 
 export default ColorMusicRow;
